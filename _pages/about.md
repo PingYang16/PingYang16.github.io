@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am now a PhD candidate in Bai Lab at UMass Amherst, supervised by Prof. Bai. My major research lies in leveraging machine learning to guide property prediction of materials, especially Graph Neural Networks as molecules inherent have graph structures.
+I am a third year PhD student in Chemical Engineering, University of Massachusetts Amherst. I am working with Dr. Peng Bai as a graduate research assistant. My major research lies in leveraging machine learning to guide property prediction of materials, especially Graph Neural Networks as molecules inherent have graph structures.
 
-Before coming to UMass, I got my master degree from Oregon State University, where I work with Prof. Simon in [The Simon Research Ensemble](https://simonensemble.github.io/). I mainly developed a machine learning model to predict the toxicity of pesticides to honey bees via Support Vector Machines with Random Walk graph kernels.
+Prior to coming to UMass, I obtained my master degree from Oregon State University, where I work with Prof. Simon in [The Simon Research Ensemble](https://simonensemble.github.io/). We developed a machine learning model to predict the toxicity of pesticides to honey bees via Support Vector Machines with Random Walk graph kernels. I hold bachelor degree in Chemical Engineering from East China University of Science and Technology.
 
-Born and raised in Wuhan, China. I enjoying playing vedio games and outdoor activites.
+I was born and raised in Wuhan, China, a famous city now as the well-known reason. In my free time, I enjoying playing video games and spending time with friends on outdoor activities or board games.
