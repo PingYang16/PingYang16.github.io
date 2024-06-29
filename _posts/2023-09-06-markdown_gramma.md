@@ -5,6 +5,9 @@ date: 2023-09-06 16:40:16
 description: short intro to markdown grammar used for Obsidian 
 tags: formatting
 categories: sample-posts
+mermaid:
+  enabled: true
+  zoomable: false
 ---
 
 # What is markdown
@@ -240,6 +243,7 @@ K_{GRW}(G, H)=\sum_{l=0}^\infty[(I-\gamma A_\times)^{-1}]_{ij}
 $$
 
 ## 11. Mermaid
+
 ```mermaid
 pie
 	title Why
@@ -259,4 +263,12 @@ gantt
 	section Another
 	Task in sec.    : 2020-01-12 , 12d
 	another task    : 24d
+```
+
+```mermaid
+sequenceDiagram
+    participant John
+    participant Alice
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
 ```
