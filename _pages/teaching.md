@@ -9,13 +9,14 @@ nav_order: 6
 
 ## @ UMass Amherst
 ### Teaching Assistant
+- ***Spring 2024*** CHEM-ENG 446 Process Control, Dr. Anna Marie LaChance
 - ***Fall 2023*** CHEM-ENG 231 Math Modeling, Prof. Peng Bai
 
 
 ---
 ## @ Oregon State University
 ### Teaching Assistant
-- ***Spring 2022*** ENGR 103 Engineering Computation and Algorithmic Thinking, Paula De Szoeke (taught in Python)
+- ***Spring 2022*** ENGR 103 Engineering Computation and Algorithmic Thinking, Dr. Paula De Szoeke (taught in Python)
 
 ### Grader
 - ***Winter 2022*** CHE 333 Transport Phenomena III, Prof. Liney Arnadottir
