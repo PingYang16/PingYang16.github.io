@@ -6,10 +6,6 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
----
-
 The article <em>Classifying the toxicity of pesticides to honey bees via support vector machines with random walk graph kernels</em> is on the cover of Journal of Chemical Physics.
 
 Cover graphic artist: Paul Morris. (Thanks Paul!)
