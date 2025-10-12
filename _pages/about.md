@@ -35,14 +35,13 @@ My research interest includes levering machine learning and bayesian optimizatio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/jcp_cover.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Classifying the toxicity of pesticides to honey bees via support vector machines with random walk graph kernels](https://pubs.aip.org/aip/jcp/article-abstract/157/3/034102/2841476/Classifying-the-toxicity-of-pesticides-to-honey?redirectedFrom=fulltext)
+**P. Yang**, E. A. Henle, X. Z. Fern, and C. Simon. Classifying the toxicity of pesticides to honey bees via support vector machines with random walk graph kernels. [*J. Chem. Phys.* **157**, 034102 (2022).](https://doi.org/10.1063/5.0090573)
 
-**P. Yang**, E. A. Henle, X. Z. Fern, C. Simon
-The Journal of Chemical Physics. 2022.
 note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz about machine learning and pesticide toxicity".
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Citation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QcgjrC0AAAAJ&citation_for_view=QcgjrC0AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+[**Code Repo**](https://github.com/SimonEnsemble/graph-kernel-SVM-for-toxicity-of-pesticides-to-bees) <strong><span></span></strong>
 </div>
 </div>
 
