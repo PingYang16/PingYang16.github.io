@@ -53,7 +53,18 @@ note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz abou
 - *2019.09 - 2022.06*, Master of Science in Chemical Engineering, Oregon State University, Corvallis, OR.
 - *2013.08 - 2017.07*, Bachelor of Engineering in Chemical Engineering and Technology, East China University of Science and Technology, Shanghai, China.
 
-# 💬 Conferences 
+# 💬 Conferences
 
+# 🏫 Teaching
+- At University of Massachusetts Amherst
+1. *Fall 2025*, ChE 621 Thermodynamics I, with [Prof. Peng Bai.](https://www.umass.edu/engineering/about/directory/peng-bai)
+2. *Fall 2025*, ChE 625 Reactor Design, with [Prof. Wei Fan.](https://www.umass.edu/engineering/about/directory/wei-fan)
+3. *Spring 2025*, ChE 231 Math Modeling, with [Prof. Peng Bai.](https://www.umass.edu/engineering/about/directory/peng-bai)
+4. *Fall 2024*, ChE 446 Process Control, with [Dr. Anna Marie LaChance.](https://www.umass.edu/engineering/about/directory/anna-marie-lachance)
+5. *Spring 2024*, ChE 231 Math Modeling, with [Prof. Peng Bai.](https://www.umass.edu/engineering/about/directory/peng-bai)
+- At Oregon State University
+1. *Spring 2022* ENGR 103 Engineering Computation and Algorithmic Thinking, with [Paula De Szoeke.](https://engineering.oregonstate.edu/people/paula-de-szoeke)
+2. *Winter 2022*, CHE 333 Transport Phenomena III, with [Prof. Líney Árnadóttir.](https://engineering.oregonstate.edu/people/liney-arnadottir)
+3. *Fall 2021*, CHE 599 Introduction to Data Science to Engineers, with [Prof. Cory M. Simon.](https://engineering.oregonstate.edu/people/cory-simon)
 
 # 💻 Internships
