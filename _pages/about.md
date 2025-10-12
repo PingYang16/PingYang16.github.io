@@ -39,7 +39,7 @@ My research interest includes levering machine learning and bayesian optimizatio
 
 note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz about machine learning and pesticide toxicity".
 
-[**Citation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QcgjrC0AAAAJ&citation_for_view=QcgjrC0AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Citation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QcgjrC0AAAAJ&citation_for_view=QcgjrC0AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='QcgjrC0AAAAJ:u5HHmVD_uO8C'></span></strong>
 
 [**Code Repo**](https://github.com/SimonEnsemble/graph-kernel-SVM-for-toxicity-of-pesticides-to-bees) <strong><span></span></strong>
 </div>
