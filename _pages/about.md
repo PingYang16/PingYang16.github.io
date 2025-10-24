@@ -28,7 +28,10 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 
 # 📝 Publications 
 
-<img src='images/jcp_cover.png' alt='Cover of JCP' style='display: block; margin-left: auto; margin-right: auto; width: 100%;'>
+<img src='images/jcp_cover.png' alt='Cover of JCP' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/jcp_cover.png' alt="sym" width="100%"></div></div>
+
+Cover of JCP
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA TOC</div><img src='images/jmca_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
