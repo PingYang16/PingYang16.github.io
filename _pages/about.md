@@ -36,7 +36,6 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 </div>
 
 ---
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA TOC</div><img src='images/jmca_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
