@@ -9,10 +9,10 @@
 title                    : "Ping Yang"
 description              : "Personal academic website of Ping Yang"
 repository               : "PingYang16/PingYang16.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-55XKN059HD
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
