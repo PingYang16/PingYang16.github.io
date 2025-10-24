@@ -28,7 +28,7 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/TOC\ JMCA.jepg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/jmca_toc.jepg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Y. Liu, **P. Yang**, G. Perez, A. Sun, W. Fan, S. Maji, and P. Bai. Representation Learning for Long-Chain Hydrocarbon Adsorption in Zeolites. [*J. Mater. Chem. A* (2025).](https://doi.org/10.1039/D5TA04285B)
@@ -39,7 +39,7 @@ Y. Liu, **P. Yang**, G. Perez, A. Sun, W. Fan, S. Maji, and P. Bai. Representati
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/TOC\ Graphic.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/jpcc_toc.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 S. Sharma=, **P. Yang=**, Y. Liu, K. Rossi, P. Bai, M. S. Rigutto, E. Zuidema, U. Agarwal, R. Baur, S. Calero, D. Dubbeldam, and T. J.H. Vlugt. Machine Learning-Based Predictions of Henry Coefficients for Long-Chain Alkanes in One-Dimensional Zeolites: Application to Hydroisomerization. [*J. Phys. Chem. C* **129**, 18234-18249 (2025).](https://pubs.acs.org/doi/10.1021/acs.jpcc.5c03868)
