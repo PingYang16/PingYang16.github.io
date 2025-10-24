@@ -28,13 +28,14 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 
 # 📝 Publications 
 
-<img src='images/jcp_cover.png' alt='Cover of JCP' style='display: block; margin-left: auto; margin-right: auto; width: 50%;'>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cover of JCP</div><img src='images/jcp_cover.png' alt="sym" width="100%"></div></div>
+<div style="position: relative; width: 50%; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
+    <img src='images/jcp_cover.png' alt='JCP Journal Cover' width="100%">
+    <div style="position: absolute; top: 0; left: 0; background-color: #333; color: white; padding: 5px 10px; font-size: 0.8em; z-index: 1;">
+        Cover of JCP
+    </div>
+</div>
 
-Cover of JCP
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA TOC</div><img src='images/jmca_toc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
 
 Y. Liu, **P. Yang**, G. Perez, A. Sun, W. Fan, S. Maji, and P. Bai. Representation Learning for Long-Chain Hydrocarbon Adsorption in Zeolites. [*J. Mater. Chem. A* (2025).](https://doi.org/10.1039/D5TA04285B)
 
