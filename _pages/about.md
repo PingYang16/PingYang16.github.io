@@ -35,6 +35,8 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
     </div>
 </div>
 
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA TOC</div><img src='images/jmca_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,12 +72,12 @@ note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz abou
 </div>
 
 # 🎖 Honors and Awards
-- *2020 - 2022*, Oregon State University Continued Success Scholarship.
+- *2020 -- 2022*, Oregon State University Continued Success Scholarship.
 
 # 📖 Educations
-- *2022.09 - now*, Doctor of Philosophy in Chemical Engineering | University of Massachusetts Amherst | Amherst, MA, USA.
-- *2019.09 - 2022.06*, Master of Science in Chemical Engineering | Oregon State University | Corvallis, OR, USA.
-- *2013.08 - 2017.07*, Bachelor of Engineering in Chemical Engineering and Technology| East China University of Science and Technology | Shanghai, China.
+- **Doctor of Philosophy in Chemical Engineering** (*2022.09 -- present*) \| University of Massachusetts Amherst \| Amherst, MA, USA.
+- **Master of Science in Chemical Engineering** (*2019.09 -- 2022.06*) \| Oregon State University \| Corvallis, OR, USA.
+- **Bachelor of Engineering in Chemical Engineering and Technology** (*2013.08 -- 2017.07*) \| East China University of Science and Technology \| Shanghai, China.
 
 # 💬 Conferences
 
