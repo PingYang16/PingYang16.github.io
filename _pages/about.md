@@ -75,6 +75,7 @@ note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz abou
 
 # 📖 Educations
 - **Doctor of Philosophy in Chemical Engineering** (*2022.09 -- present*) \| University of Massachusetts Amherst \| Amherst, MA, USA.
+- **Graduate Certificate in Statistical and Computational Data Science** (*Awarded on 2025.09.01*) \| University of Masschusetts Amherst \| Amherst, MA, USA.
 - **Master of Science in Chemical Engineering** (*2019.09 -- 2022.06*) \| Oregon State University \| Corvallis, OR, USA.
 - **Bachelor of Engineering in Chemical Engineering and Technology** (*2013.08 -- 2017.07*) \| East China University of Science and Technology \| Shanghai, China.
 
