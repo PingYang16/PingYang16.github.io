@@ -39,7 +39,7 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMCA TOC</div><img src='images/jmca_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Y. Liu, **P. Yang**, G. Perez, A. Sun, W. Fan, S. Maji, and P. Bai. Representation Learning for Long-Chain Hydrocarbon Adsorption in Zeolites. [*J. Mater. Chem. A* (2025).](https://doi.org/10.1039/D5TA04285B)
+Y. Liu, **P. Yang**, G. Perez, A. Sun, W. Fan, S. Maji, and P. Bai. Representation Learning for Long-Chain Hydrocarbon Adsorption in Zeolites. [*J. Mater. Chem. A* **13**, 39229-39242 (2025).](https://doi.org/10.1039/D5TA04285B)
 
 [**Citation**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QcgjrC0AAAAJ&citation_for_view=QcgjrC0AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='QcgjrC0AAAAJ:u5HHmVD_uO8C'></span></strong>
 
