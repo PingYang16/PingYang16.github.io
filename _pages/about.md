@@ -36,7 +36,7 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 </div>
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSML TOC</div><img src='images/acml_toc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSML TOC</div><img src='images/acsml_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Y. Liu, E. Wu, **P. Yang**, A. Sun, S. Maji, W. Fan, P. Bai. Assessment of the Synthetic Feasibility of Hypothetical Zeolite-like Materials Based on ZeoNet. [*ACS Materials Lett.* (2026)](https://doi.org/10.1021/acsmaterialslett.6c00153)
