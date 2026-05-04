@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a fourth-year Ph.D. candidate in [Chemical Engineering at University of Masschusetts Amherst](https://www.umass.edu/engineering/chemical-engineering), advised by [Prof. Peng Bai](https://people.umass.edu/baigroup/). Previously, I earned my Master of Science in Chemical Enginnering from [Oregon State University](https://engineering.oregonstate.edu/academics/programs/chemical-engineering), where I was advised by [Prof. Cory M. Simon](https://simonensemble.github.io/).
+I am now a fourth-year Ph.D. student in [Chemical Engineering at University of Masschusetts Amherst](https://www.umass.edu/engineering/chemical-engineering), advised by [Prof. Peng Bai](https://people.umass.edu/baigroup/). Previously, I earned my Master of Science in Chemical Enginnering from [Oregon State University](https://engineering.oregonstate.edu/academics/programs/chemical-engineering), where I was advised by [Prof. Cory M. Simon](https://simonensemble.github.io/).
 
 My research interest focus on leveraging machine learning and Bayesian optimization to efficiently guide the search for porous materials with target properties. Outside of research, I enjoy playing vedio games, board games, and cooking.
 
