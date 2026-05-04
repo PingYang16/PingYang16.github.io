@@ -94,6 +94,7 @@ note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz abou
 - <u>Y. Liu</u>, E Wu, **P. Yang**, A. Sun, W. Fan, S. Maji, P. Bai. Assessing the Synthetic Feasibility of Zeolite-like Materials Using Zeonet. [*2025 AIChE Annual Meeting*](https://aiche.confex.com/aiche/2025/meetingapp.cgi/Paper/717466)
 - Y. Liu, **P. Yang**, A. Sun, Z. Cheng, G. Pérez, W. Fan, S. Maji, <u>P. Bai</u>. Representation Learning for Predicting Shape Selectivity in Nanoporous Zeolites. [*The 29th North American Catalysis Society Meeting*](https://aiche.confex.com/aiche/nams25/meetingapp.cgi/Paper/705803)
 - <u>Y. Liu</u>, **P. Yang**, G. Pérez, A. Sun, W. Fan, S. Maji, P. Bai. Representation Learning for All-Silica Zeolites: Model Representations, Transfer Learning, and Multi-Task Learning. [*2024 AIChE Annual Meeting*](https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/693601)
+- <u>Y. Liu</u>, G. Pérez, Z. Cheng, A. Sun, **P. Yang**, S. Hoover, W. Fan, S. Maji, P. Bai. Zeonet: 3D Convolutional Neural Networks for Predicting Long-Chain Hydrocarbon Adsorption in Nanoporous Zeolites. [*Foundations of Molecular Modeling and Simulation, 2024*](https://aiche.confex.com/aiche/fomms24/meetingapp.cgi/Paper/685193)
 - **P. Yang**, E.. A. Henle, X. Z. Fern, and <u>C. Simon</u>. Classifying the Toxicity of Pesticides to Honey Bees Via Support Vector Machines with Random Walk Graph Kernels. [*2022 AIChE Annual Meeting*](https://aiche.confex.com/aiche/2022/meetingapp.cgi/Paper/642579)
 
 # 🏫 Teaching
