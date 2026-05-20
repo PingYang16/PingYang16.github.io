@@ -81,7 +81,7 @@ note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz abou
 </div>
 
 # 🎖 Honors and Awards
-- *2026*, PPG Fellowship.
+- *2025 -- 2026*, PPG Foundation Fellowship.
 - *2020 -- 2022*, Oregon State University Continued Success Scholarship.
 
 # 📖 Educations
