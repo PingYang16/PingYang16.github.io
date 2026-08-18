@@ -112,6 +112,6 @@ note: on the cover; JCP Editors' Choice 2022; covered by Scilight "The buzz abou
 3. *Fall 2021*, CHE 599 Introduction to Data Science to Engineers, with [Prof. Cory M. Simon.](https://engineering.oregonstate.edu/people/cory-simon)
 
 # 🤝 Academic Service
-- *2026*, **Lecture Content Reviewer**, “AI for Accelerated Materials Science,” [CCAI Virtual Summer School](https://www.climatechange.ai/events/summer_school2026).
+- *2026*, **Lecture Content Reviewer**, “AI for Accelerated Materials Science,” [Climate Change AI Virtual Summer School](https://www.climatechange.ai/events/summer_school2026).
 
 # 💻 Internships
