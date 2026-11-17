@@ -36,6 +36,14 @@ My research interest focus on leveraging machine learning and Bayesian optimizat
 </div>
 
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEURIPS</div><img src='images/neurips_fig1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A. Sun, Y. Liu, **P. Yang**, P. Bai, S. Maji. ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations. [NeurIPS Evaluations and Datasets Track (2026).](https://neurips.cc/virtual/2026/loc/sydney/poster/139578)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACSML TOC</div><img src='images/acsml_toc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
